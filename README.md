@@ -29,8 +29,3 @@ Each board file must contain exactly 9 lines, and each line must contain exactly
 Open [23F-0550.ipynb](23F-0550.ipynb) and run the cells from top to bottom. The notebook reads the four `.txt` files, solves them, and prints the results and statistics.
 
 If you want to regenerate the saved report file, run the notebook to completion and copy the printed output into [sudoku_results.txt](sudoku_results.txt).
-
-## Notes
-
-- The notebook is the submission file for the assignment.
-- The repository does not need a separate `.py` solver file.
